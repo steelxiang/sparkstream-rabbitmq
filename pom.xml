@@ -63,7 +63,7 @@
 
             <artifactId>amqp-client</artifactId>
 
-            <version>3.6.6</version>
+            <version>4.8.0</version>
 
         </dependency>
 
